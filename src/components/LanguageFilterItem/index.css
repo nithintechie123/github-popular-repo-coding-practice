@@ -1,0 +1,25 @@
+.inactive-filter-style {
+  background-color: transparent;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 15px;
+  margin: 20px;
+  color: #1e293b;
+  border-width: 0px;
+  outline: none;
+  cursor: pointer;
+}
+
+.active-filter-style {
+  border: 1px solid #0284c7;
+  border-radius: 12px;
+  background-color: transparent;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 15px;
+  margin: 20px;
+  color: #0284c7;
+  padding: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
